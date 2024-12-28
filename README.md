@@ -5,9 +5,9 @@ Authors: Lingjun Mao, Zineng Tang, Alane Suhr
 ---
 
 <div style="display: flex; justify-content: space-around;">
-  <img src="https://color-illusion.github.io/Color-Illusion/images/contrast1.gif" alt="GIF 1" style="width: 30%; margin: 5px;">
-  <img src="https://color-illusion.github.io/Color-Illusion/images/stripe1.gif" alt="GIF 2" style="width: 30%; margin: 5px;">
-  <img src="https://color-illusion.github.io/Color-Illusion/images/filter1.gif" alt="GIF 3" style="width: 30%; margin: 5px;">
+  <img src="https://github.com/mao1207/RCID/blob/main/images/contrast1.gif?raw=true" alt="GIF 1" style="width: 30%; margin: 5px;">
+  <img src="https://github.com/mao1207/RCID/blob/main/images/stripe1.gif?raw=true" alt="GIF 2" style="width: 30%; margin: 5px;">
+  <img src="https://github.com/mao1207/RCID/blob/main/images/filter1.gif?raw=true" alt="GIF 3" style="width: 30%; margin: 5px;">
 </div>
 
 
