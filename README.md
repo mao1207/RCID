@@ -40,4 +40,4 @@ The model used to generate the data is available at:  [Color Diffusion](https://
 
 The source code of this repository is released under the Apache License 2.0. The model license and dataset license are listed on their corresponding webpages.
 
-For more information, access to the dataset, and to contribute, please visit our [Website](https://color-illusion.github.io/).
+For more information, access to the dataset, and to contribute, please visit our [Website](https://color-illusion.github.io/Color-Illusion/).
