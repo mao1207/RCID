@@ -4,11 +4,7 @@ Authors: Lingjun Mao, Zineng Tang, Alane Suhr
 
 ---
 
-<div style="display: flex; justify-content: space-around;">
-  <img src="https://github.com/mao1207/RCID/blob/main/images/contrast1.gif?raw=true" alt="GIF 1" style="width: 20%; margin: 5px;">
-  <img src="https://github.com/mao1207/RCID/blob/main/images/stripe1.gif?raw=true" alt="GIF 2" style="width: 20%; margin: 5px;">
-  <img src="https://github.com/mao1207/RCID/blob/main/images/filter1.gif?raw=true" alt="GIF 3" style="width: 20%; margin: 5px;">
-</div>
+![examples](https://github.com/mao1207/RCID/blob/main/images/example.gif?raw=true)
 
 
 ## Abstract
@@ -26,7 +22,7 @@ We study the perception of color illusions by vision-language models. **Color il
 
 ## Dataset
 
-![RCID](https://color-illusion.github.io/Color-Illusion/images/main_figure.gif)
+![RCID](https://github.com/mao1207/RCID/blob/main/images/main_figure.gif?raw=true)
 
 The construction of our dataset involves three steps:
 
