@@ -22,7 +22,7 @@ We study the perception of color illusions by vision-language models. **Color il
 
 ## Dataset
 
-![RCID](https://github.com/mao1207/RCID/blob/main/images/main_figure.gif?raw=true)
+![RCID](https://github.com/mao1207/RCID/blob/main/images/main_figure.png?raw=true)
 
 The construction of our dataset involves three steps:
 
