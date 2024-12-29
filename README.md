@@ -136,33 +136,6 @@ This will generate questions related to the color differences and illusions pres
 
 ---
 
-### Directory Structure
-
-Here’s a basic overview of the directory structure after running these steps:
-
-```
-RCID/
-├── ControlNet_training/
-│   ├── generate_quantified_images.py  # Quantize images for basic shapes and colors
-│   └── train_controlnet.py           # Train the ControlNet model
-├── dataset_construction/
-│   ├── simple_contrast_illusion_generation.py  # Generate simplified contrast illusions
-│   ├── simple_stripe_illusion_generation.py    # Generate simplified stripe illusions
-│   ├── realistic_illusion_generation.py         # Generate realistic illusion images
-│   ├── question_generation.py                  # Generate questions for datasets
-│   └── filter_illusion_generation.py           # Generate filter illusion images
-├── evaluation/
-│   ├── eval                                  # Evaluation scripts
-│   ├── model                                 # Pre-trained models
-│   ├── serve                                 # Model serving code
-│   └── train                                 # Training scripts for evaluation
-├── dataset/                                  # Dataset directory
-└── models/
-    └── Your_trained_model/                   # Your trained ControlNet model
-```
-
----
-
 ### Additional Notes
 
 - Make sure your dataset is in the correct format before running the scripts.
